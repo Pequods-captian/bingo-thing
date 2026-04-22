@@ -31,3 +31,29 @@ examples include
 
 What does <!DOCTYPD html> do
 it sets the doc's language to be set to html allowing the browser to read it and know it's an html file
+
+Every html file has the same skeleton
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <style></style>
+    <link>
+    <meta charset="UTF-8">
+    <meta name="viewport" context="width="device-width", inital-scale="0.1">
+     - Makes the page responsive
+  </head>
+  <body>
+    <nav>contains any navigation bar element</nav>
+    <h1>big heading, only one per page, most important heading</h1>
+    <!--- all visual elements in body --->
+  </body>
+</html>
+
+part 2: core html elements
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+the headings get smaller the  bigger the number is
+only 1 h1 tag per page
