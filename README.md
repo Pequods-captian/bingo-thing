@@ -68,3 +68,32 @@ text elements
 <hr></hr> horizontal row
 <span></span> inline element
 <br> line break
+
+links and images
+
+how make link to sll boces.org
+
+<a href="http://sllboces.org" target="_blank">SLL BOCES</a>
+
+how do i create a link to a relative path (page in same directory)
+<a href="about.html"></a>
+what if it was in a content folder
+<a href="content/about.html"></a>
+link to another section of page
+<a href="#about"></a>
+link to send an email
+<a href="epicemail@gmail.org">email</a>
+
+what are the two attributes for img tags
+<alt>text for accesiblity</alt>
+<src></src> file path to image
+
+what is hot linking an image
+linking from somewhere else on the internet
+remove before publishing site
+
+semantic elements
+describe an element and the stuff inside
+
+search engines move better SCOs higher
+
