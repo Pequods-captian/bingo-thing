@@ -51,9 +51,20 @@ Every html file has the same skeleton
 </html>
 
 part 2: core html elements
-<h1></h1>
-<h2></h2>
-<h3></h3>
-<h4></h4>
+<h1> heading</h1>
+<h2> sub title and subtitles</h2>
+<h3>sub section</h3>
+<h4> same as normal text size but bolded</h4>
+<h5>fine print</h5>
+<H6>fine print</H6>
 the headings get smaller the  bigger the number is
 only 1 h1 tag per page
+
+text elements
+<p></p> paragraph
+<strong></strong> bold/important text - semantic weight
+<em></em> itallic/emphisized - semantic weight
+<u></u> underline
+<hr></hr> horizontal row
+<span></span> inline element
+<br> line break
